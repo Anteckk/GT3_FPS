@@ -10424,3 +10424,74 @@ Script Stack (0 frames):
 [2021.11.25-12.41.41:174][673]LogSavePackage: Moving 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Saved/LevelWilliam7AD374354B93C516B1884FB098AFB458.tmp' to 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/Levels/LevelWilliam.umap'
 [2021.11.25-12.41.41:200][673]AssetCheck: New page: Asset Save: LevelWilliam
 [2021.11.25-12.41.41:200][673]LogContentValidation: Display: Validating World /Game/Blueprints/Levels/LevelWilliam.LevelWilliam
+[2021.11.25-12.49.38:023][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelBlueprints/BP_CloudAprearing.BP_CloudAprearing
+[2021.11.25-12.49.53:786][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.11.25-12.49.53:879][963]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/AntoineLevel.AntoineLevel
+[2021.11.25-12.49.53:880][963]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/Levels/AntoineLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.25-12.49.53:880][963]LightingResults: New page: Lighting Build
+[2021.11.25-12.49.53:880][963]LoadErrors: New page: Loading map: AntoineLevel.umap
+[2021.11.25-12.49.53:885][963]LogWorld: UWorld::CleanupWorld for LevelWilliam, bSessionEnded=true, bCleanupResources=true
+[2021.11.25-12.49.53:886][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.25-12.49.53:886][963]MapCheck: New page: Map Check
+[2021.11.25-12.49.53:886][963]LightingResults: New page: Lighting Build
+[2021.11.25-12.49.53:911][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.25-12.49.53:919][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.11.25-12.49.53:921][963]LogAudio: Display: Audio Device (ID: 1) registered with world 'AntoineLevel'.
+[2021.11.25-12.49.53:946][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.25-12.49.53:946][963]LogAIModule: Creating AISystem for world AntoineLevel
+[2021.11.25-12.49.53:976][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.25-12.49.53:987][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.25-12.49.53:987][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,232ms to complete.
+[2021.11.25-12.49.53:987][963]LogFileHelpers: Loading map 'AntoineLevel' took 0.108
+[2021.11.25-12.50.06:044][915]LogEditorViewport: Clicking on Actor (LMB): Pl_PowerUp_4_Blueprint_C (Pl_PowerUp_4_Blueprint)
+[2021.11.25-12.50.07:831][ 57]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.25-12.50.14:360][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelBlueprints/Pl_PowerUp_4_Blueprint.Pl_PowerUp_4_Blueprint
+[2021.11.25-12.54.26:844][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.25-12.54.26:930][  7]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/ElvynSalle.ElvynSalle
+[2021.11.25-12.54.26:931][  7]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/Levels/ElvynSalle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.25-12.54.26:931][  7]LightingResults: New page: Lighting Build
+[2021.11.25-12.54.26:931][  7]LoadErrors: New page: Loading map: ElvynSalle.umap
+[2021.11.25-12.54.26:934][  7]LogWorld: UWorld::CleanupWorld for AntoineLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.25-12.54.26:934][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.25-12.54.26:934][  7]MapCheck: New page: Map Check
+[2021.11.25-12.54.26:934][  7]LightingResults: New page: Lighting Build
+[2021.11.25-12.54.26:960][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.25-12.54.26:967][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.11.25-12.54.26:967][  7]LogAudio: Display: Audio Device (ID: 1) registered with world 'ElvynSalle'.
+[2021.11.25-12.54.26:993][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.25-12.54.26:993][  7]LogAIModule: Creating AISystem for world ElvynSalle
+[2021.11.25-12.54.27:026][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.11.25-12.54.27:036][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.25-12.54.27:037][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,258ms to complete.
+[2021.11.25-12.54.27:037][  7]LogFileHelpers: Loading map 'ElvynSalle' took 0.106
+[2021.11.25-12.54.37:188][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.25-12.54.37:205][840]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Levels/ElvynSalle.ElvynSalle
+[2021.11.25-12.54.37:205][840]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/Levels/ElvynSalle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.25-12.54.37:206][840]LightingResults: New page: Lighting Build
+[2021.11.25-12.54.37:206][840]LoadErrors: New page: Loading map: ElvynSalle.umap
+[2021.11.25-12.54.37:231][840]LogWorld: UWorld::CleanupWorld for ElvynSalle, bSessionEnded=true, bCleanupResources=true
+[2021.11.25-12.54.37:231][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.25-12.54.37:231][840]MapCheck: New page: Map Check
+[2021.11.25-12.54.37:231][840]LightingResults: New page: Lighting Build
+[2021.11.25-12.54.37:254][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.25-12.54.37:259][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.25-12.54.37:279][840]LogAudio: Display: Audio Device (ID: 1) registered with world 'ElvynSalle'.
+[2021.11.25-12.54.37:279][840]LogAIModule: Creating AISystem for world ElvynSalle
+[2021.11.25-12.54.37:305][840]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.25-12.54.37:333][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.11.25-12.54.37:343][840]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.25-12.54.37:343][840]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,19ms to complete.
+[2021.11.25-12.54.37:343][840]LogFileHelpers: Loading map 'ElvynSalle' took 0.138
+[2021.11.25-12.54.45:600][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.25-12.54.55:464][249]LogEditorViewport: Clicking on Actor (LMB): BP_JumpBoost_C (BP_JumpBoost)
+[2021.11.25-12.54.57:024][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/LevelBlueprints/BP_JumpBoost.BP_JumpBoost
+[2021.11.25-12.55.37:943][691]BlueprintLog: New page: Compile BP_JumpBoost
+[2021.11.25-12.55.37:993][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.11.25-12.55.39:877][838]BlueprintLog: New page: Compile BP_JumpBoost
+[2021.11.25-12.55.39:929][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.25-12.55.40:253][859]LogSavePackage: Moving 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Saved/BP_JumpBoost0CE666A1433DADF0EC88E8AD2005171B.tmp' to 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/LevelBlueprints/BP_JumpBoost.uasset'
+[2021.11.25-12.55.40:271][859]AssetCheck: New page: Asset Save: BP_JumpBoost
+[2021.11.25-12.55.40:272][859]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelBlueprints/BP_JumpBoost.BP_JumpBoost
+[2021.11.25-12.55.41:019][921]LogSavePackage: Moving 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Saved/BP_JumpBoost7C1C43984D24C18BF80DECBE4ABC266F.tmp' to 'C:/Users/User/Documents/Cours/GamingCampus/Unreal/FPS/GT3_FPS/Content/Blueprints/LevelBlueprints/BP_JumpBoost.uasset'
+[2021.11.25-12.55.41:035][921]AssetCheck: New page: Asset Save: BP_JumpBoost
+[2021.11.25-12.55.41:035][921]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LevelBlueprints/BP_JumpBoost.BP_JumpBoost
